@@ -56,7 +56,7 @@ Run a Docker container from the image you just built:
 Find '*without-multistage-app*' named image and note the image **size**.
 
 <p align="center">
- <img src="image size 1.png?raw=true" alt="image size 1" width="80%" height="50%" />
+ <img src="image-size-1.png?raw=true" alt="image size 1" width="80%" height="50%" />
 </p>
 
 ### Step 2B: Build the Docker Image with multistage
@@ -84,7 +84,7 @@ Run a Docker container from the image you just built:
 Find '*multistage-app*' named image and note the image **size**.
 
 <p align="center">
- <img src="image size 2.png?raw=true" alt="image size 2" width="80%" height="50%" />
+ <img src="image-size-2.png?raw=true" alt="image size 2" width="80%" height="50%" />
 </p>
 
 ## Observation
